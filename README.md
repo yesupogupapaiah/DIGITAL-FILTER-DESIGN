@@ -18,20 +18,7 @@ Mentor: NEELA SANTHOSH KUMAR
 UNIT (ALU)
 
 ### Output: 
-![output]()
-
-
-
-
-
-
-
-
-
-
-
-
-
+![output](https://github.com/yesupogupapaiah/DIGITAL-FILTER-DESIGN/blob/main/task4.png)
 
 
 # DIGITAL-FILTER-DESIGN
